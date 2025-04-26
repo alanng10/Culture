@@ -47,3 +47,5 @@ Culture has park kind arch benefit.
 Culture has park kind arch marry.
 
 Culture has park kind arch land.
+
+Culture has major.
