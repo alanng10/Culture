@@ -48,4 +48,8 @@ Culture has park kind arch marry.
 
 Culture has park kind arch land.
 
+Culture has park mark.
+
+Culture has park cross.
+
 Culture has major.
